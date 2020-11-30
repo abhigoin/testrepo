@@ -1,7 +1,0 @@
-setup.py
-abhishek_package/__init__.py
-abhishek_package/test_class.py
-abhishek_package.egg-info/PKG-INFO
-abhishek_package.egg-info/SOURCES.txt
-abhishek_package.egg-info/dependency_links.txt
-abhishek_package.egg-info/top_level.txt
